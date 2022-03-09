@@ -1,2 +1,2 @@
 ### Buession CAS 框架是什么？
-对 Apereo CAS 的二次封装和解决各依赖。
+解决 Apereo CAS 的解决各依赖，以及对 Apereo CAS 二次封装。

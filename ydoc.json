@@ -1,5 +1,8 @@
 {
-  "title": "h",
-  "description": "h",
-  "author": "h"
+  "title": "Buession CAS",
+  "keywords": "buession java Apereo CAS framework",
+  "description": "Apereo CAS 扩展 ",
+  "author": "buession",
+  "theme": "demo",
+  "root": "src"
 }
