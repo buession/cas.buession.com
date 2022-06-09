@@ -4,5 +4,10 @@
   "description": "Apereo CAS 扩展 ",
   "author": "buession",
   "theme": "demo",
-  "root": "src"
+  "root": "src",
+  "pluginsConfig": {
+    "import-asset": {
+      "js": ["/js/stat.js"]
+    }
+  }
 }
