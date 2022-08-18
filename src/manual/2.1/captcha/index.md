@@ -18,4 +18,4 @@ Apereo CAS 集成 [buession-security-captcha](https://security.buession.com/manu
 ```
 
 
-### [API 参考手册>>](https://javadoc.io/doc/com.buession.cas/buession-cas-captcha/2.0.2/index.html)
+### [API 参考手册>>](https://javadoc.io/doc/com.buession.cas/buession-cas-captcha/2.1.0/index.html)
